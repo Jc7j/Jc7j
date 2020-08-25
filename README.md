@@ -14,6 +14,10 @@
  
 <br>
 
+<div align="center">
+<h3>💻 Full-Stack Engineer </h3>
+</div>
+
 ### About Me
 I'm a Software Engineer who is passionate about the developer / tech industry as well as helping the community, music, and my health. Some technologies I enjoy woking with are Typescript, React, Python and Django. I'm learning new technologies all the time and I'm not afraid to develop with them. I'm currently looking searching for my next role, so feel free to contact me at if you are an employer!
 
