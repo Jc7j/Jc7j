@@ -3,11 +3,11 @@
 </div>
 
 <br>
-
+<h3>I need to update this..</h3>
 <div align="center">
   
    <a href="https://www.linkedin.com/in/jasonchiangjc7j/" target="_blank">
-   <img align="center" alt="John Chiang | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"
+   <img align="center" alt="Jason Chiang | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"
    </a>
  
 </div>
